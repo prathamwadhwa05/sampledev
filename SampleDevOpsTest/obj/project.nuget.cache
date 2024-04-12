@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B+K6yH/iOUE9/o/whZlTLn8NXCkT8FVdD9YdZJmmvepYM3qSHgY4K6oANYuP7qi2M9+ckBlILggAYB9FGb32PA==",
+  "dgSpecHash": "l2LTVtCjVywJ62aX1tjp+8Wg5xd5g6bcWMGbSEewmPRMKAy8/TAP7/Hyh2IjU3tFJALiLOQoFq5DSuC2PEnkcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pratham\\source\\repos\\SampleDevops\\SampleDevOpsTest\\SampleDevOpsTest.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\pratham\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\pratham\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\pratham\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\pratham\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\pratham\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\pratham\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
     "C:\\Users\\pratham\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
